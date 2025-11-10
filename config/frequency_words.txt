@@ -5,26 +5,9 @@ HarmonyOS
 大疆
 DJI
 
-谷歌
-google
-gemini
-deepmind
-
 Android
 安卓
 +开发
-
-chatgpt
-openai
-sora
-
-claude
-Anthropic
-
-iphone
-ipad
-mac
-ios
 
 ai
 !gai
@@ -39,3 +22,10 @@ A股
 !预测
 
 房地产
+
+光伏
+TCL中环
+新能源
+反内卷
+
+天府新区
